@@ -1,13 +1,13 @@
-# Tab Navigation - REACT
+# Rock, Paper, Scissors - REACT
 
-TITLE - Tab Navigation
+TITLE - Rock, Paper, Scissors
 
-About - Tab Navigation with React Router, and mouse hover effect on Tabs
+About - Rock, Paper, Scissors game against computer, were user can pick a choice, while computer will choose randomly
 
 TECHNOLOGIES USED:
 
 - HTML5
 - Google Fonts
 - CSS3 with Sass
-- JavaScript REACT with React Router
+- JavaScript REACT with useState and useEffect
 - Git
