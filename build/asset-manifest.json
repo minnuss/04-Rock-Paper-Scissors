@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/04-Rock-Paper-Scissors/static/css/main.80480653.chunk.css",
+    "main.js": "/04-Rock-Paper-Scissors/static/js/main.440b6878.chunk.js",
+    "main.js.map": "/04-Rock-Paper-Scissors/static/js/main.440b6878.chunk.js.map",
+    "runtime-main.js": "/04-Rock-Paper-Scissors/static/js/runtime-main.5894c119.js",
+    "runtime-main.js.map": "/04-Rock-Paper-Scissors/static/js/runtime-main.5894c119.js.map",
+    "static/js/2.b95c2202.chunk.js": "/04-Rock-Paper-Scissors/static/js/2.b95c2202.chunk.js",
+    "static/js/2.b95c2202.chunk.js.map": "/04-Rock-Paper-Scissors/static/js/2.b95c2202.chunk.js.map",
+    "index.html": "/04-Rock-Paper-Scissors/index.html",
+    "precache-manifest.558a321e6bb77609b38a7eb4be554a62.js": "/04-Rock-Paper-Scissors/precache-manifest.558a321e6bb77609b38a7eb4be554a62.js",
+    "service-worker.js": "/04-Rock-Paper-Scissors/service-worker.js",
+    "static/css/main.80480653.chunk.css.map": "/04-Rock-Paper-Scissors/static/css/main.80480653.chunk.css.map",
+    "static/js/2.b95c2202.chunk.js.LICENSE.txt": "/04-Rock-Paper-Scissors/static/js/2.b95c2202.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5894c119.js",
+    "static/js/2.b95c2202.chunk.js",
+    "static/css/main.80480653.chunk.css",
+    "static/js/main.440b6878.chunk.js"
+  ]
+}
